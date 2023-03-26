@@ -1,0 +1,26 @@
+[
+  {
+
+    "PatientData": [
+      {
+        "_id": "a",
+        "Name": "Mukkaram",
+        "Disease": "Kuch be ni",
+        "Detials": ">>>>>>>>"
+      },
+      {
+        "_id": "b",
+        "Name": "Abdullah",
+        "Disease": "kidney Faliur",
+        "Detials": ">>>>>>>>"
+      },
+      {
+        "_id": "c",
+        "Name": "AbdulRehman",
+        "Disease": "Bohat Zayda Susti",
+        "Detials" :  ">>>>>>>>"
+      }
+     
+    ]
+  }
+]
